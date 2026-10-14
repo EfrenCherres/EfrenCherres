@@ -1,6 +1,7 @@
 # Efren Cherres Bowen
 
 **Analista de procesos y calidad · Lean Six Sigma · Business Intelligence · Analítica predictiva**
+
 📍 Guayaquil, Ecuador
 
 Convierto datos operativos en decisiones: mido procesos, encuentro la causa raíz de los problemas y anticipo los riesgos antes de que se vuelvan defectos. Uno la mejora continua (Lean Six Sigma, ISO 9001) con analítica de datos (SQL, Python, Power BI).
@@ -11,9 +12,9 @@ Convierto datos operativos en decisiones: mido procesos, encuentro la causa raí
 
 ### 🔧 Stack
 
-**Datos y BI:** Power BI · DAX · Power Query · SQL · Excel
-**Python:** pandas · scipy · statsmodels · scikit-learn
-**Mejora continua:** DMAIC · VSM · Kaizen · Control estadístico de procesos · ISO 9001
+- **Datos y BI:** Power BI · DAX · Power Query · SQL · Excel
+- **Python:** pandas · scipy · statsmodels · scikit-learn
+- **Mejora continua:** DMAIC · VSM · Kaizen · Control estadístico de procesos · ISO 9001
 
 ---
 
