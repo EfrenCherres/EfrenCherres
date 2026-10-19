@@ -1,4 +1,4 @@
-![ECHB Consulting & Think Analytics](echb-banner.png)
+![ECHB Consulting & Think Analytics](echb-banner%20github.png)
 # Efren Cherres Bowen
 
 **Calidad y analítica de datos · Lean Six Sigma · ISO 9001 · Python · Power BI**
