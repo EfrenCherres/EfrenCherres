@@ -34,7 +34,7 @@ Uno la mejora continua (Lean Six Sigma, ISO 9001) con el análisis de datos (SQL
 | [store-sales-forecasting](https://github.com/EfrenCherres/store-sales-forecasting) | Pronóstico de ventas con series de tiempo | Python · SQL · ML |
 | [portafolio-power-bi](https://github.com/EfrenCherres/portafolio-power-bi) | Dashboards y modelado de datos para casos de negocio | Power BI · DAX |
 | [portafolio-machine-learning](https://github.com/EfrenCherres/portafolio-machine-learning) | Ejercicios de análisis predictivo | Python · Jupyter |
-| [frutandina-quality-analytics](https://github.com/EfrenCherres/frutandina-quality-analytics) | Caso de calidad agroindustrial (archivado; continúa en echb-paramangla) | Python · SQL · Power BI |
+
 
 ---
 
